@@ -1,0 +1,5 @@
+image==1.5.20
+numpy==1.24.1
+tensorflow
+tensorflow-datasets
+matplotlib
